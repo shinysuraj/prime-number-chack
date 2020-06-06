@@ -1,2 +1,2 @@
-# prime-number-chack
-This programme chack prime number.
+# prime-number-find
+This programme find prime number.
